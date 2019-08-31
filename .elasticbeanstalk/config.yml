@@ -1,0 +1,5 @@
+branch-defaults:
+  master:
+    environment: ben-flask-env
+global:
+  profile: eb-cli
